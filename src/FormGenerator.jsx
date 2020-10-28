@@ -18,14 +18,20 @@ import React from 'react'
    };
     return (
         <div className='container'>
+          <h2>Police Brutality Report Form</h2>
        <form onSubmit={handleSubmit}>
          <label>What is the name of the officer in question?</label>
-          <input onChange={handleChange} value={formField} type="text" id="officerName" name="officerName" placeholder="Name of the officer,.." />
+          <input onChange={handleChange} value={formField} type="text" id="officerName" name="officerName" placeholder="Name of the officer,.." required/>
        <label>When was the date of the incidence?</label>
-       <input onChange={handleChange} value={formField} type="date" id="date" name="date"  />
+       <input onChange={handleChange} value={formField} type="date" id="date" name="date" required />
        <label>How much is the bribe paid?</label>
-       <input onChange={handleChange} value={formField} type="number" id="amount" name="amount" placeholder="#2000..." />
-        
+       <input onChange={handleChange} value={formField} type="number" id="amount" name="amount" placeholder="#2000..." required/>
+        <label >Location</label>
+    <select id="location" name="location">
+      <option value="location">Lagos, yaba</option>
+      <option value="canada">Enugu</option>
+      <option value="usa">Benue, Makurdi</option>
+    </select>
     
     <input type="submit" value="Submit" />
   </form>

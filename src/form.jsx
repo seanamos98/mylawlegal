@@ -1,16 +1,38 @@
 const form = [
     {
-        label: 'what is the name of the officer in question',
-        type: 'text'
+         officerName: 'what is the name of the officer in question',
+         date: '28/10/2020',
+         amount: '2000',
+         location: 'yaba lagos'
+    },
+    
+    {
+         officerName: 'what is the name of the officer in question',
+         date: '28/10/2020',
+         amount: '2000',
+         location: 'yaba lagos'
+    },
+    
+    {
+         officerName: 'what is the name of the officer in question',
+         date: '21/10/2020',
+         amount: '700',
+         location: 'makurdi'
     },
     {
-        label: 'when  was the date of the incidence',
-        type: 'date'
+         officerName: 'what is the name of the officer in question',
+         date: '21/10/2020',
+         amount: '1200',
+         location: 'enugu'
     },
+    
     {
-        label: 'how muchis the bribe that was paid',
-        type: 'number'
+         officerName: 'what is the name of the officer in question',
+         date: '27/10/2020',
+         amount: '3000',
+         location: 'sango ibadan'
     }
+    
     
 ]
 export default form;

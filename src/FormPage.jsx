@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import form from './form'
 import FormGenerator from './FormGenerator';
 
  const FormPage = () => {
@@ -8,7 +8,7 @@ import FormGenerator from './FormGenerator';
   
     return (
         <>
-          <FormGenerator formField={formField} setFormField={setFormField} results = {results}  setResults={setResults}/>
+          <FormGenerator form={form} formField={formField} setFormField={setFormField} results = {results}  setResults={setResults}/>
           
         </>
     )
