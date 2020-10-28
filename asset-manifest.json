@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mylawlegal/static/css/main.88dff0d0.chunk.css",
-    "main.js": "/mylawlegal/static/js/main.b32969be.chunk.js",
-    "main.js.map": "/mylawlegal/static/js/main.b32969be.chunk.js.map",
+    "main.css": "/mylawlegal/static/css/main.d707dd79.chunk.css",
+    "main.js": "/mylawlegal/static/js/main.64afacd2.chunk.js",
+    "main.js.map": "/mylawlegal/static/js/main.64afacd2.chunk.js.map",
     "runtime-main.js": "/mylawlegal/static/js/runtime-main.befc9dbc.js",
     "runtime-main.js.map": "/mylawlegal/static/js/runtime-main.befc9dbc.js.map",
     "static/js/2.82d16b16.chunk.js": "/mylawlegal/static/js/2.82d16b16.chunk.js",
     "static/js/2.82d16b16.chunk.js.map": "/mylawlegal/static/js/2.82d16b16.chunk.js.map",
     "index.html": "/mylawlegal/index.html",
-    "precache-manifest.e8eacaf8261f9f4eb03b1307618ccb48.js": "/mylawlegal/precache-manifest.e8eacaf8261f9f4eb03b1307618ccb48.js",
+    "precache-manifest.be91ff6c9281f6bf276951e303e2262a.js": "/mylawlegal/precache-manifest.be91ff6c9281f6bf276951e303e2262a.js",
     "service-worker.js": "/mylawlegal/service-worker.js",
-    "static/css/main.88dff0d0.chunk.css.map": "/mylawlegal/static/css/main.88dff0d0.chunk.css.map",
+    "static/css/main.d707dd79.chunk.css.map": "/mylawlegal/static/css/main.d707dd79.chunk.css.map",
     "static/js/2.82d16b16.chunk.js.LICENSE.txt": "/mylawlegal/static/js/2.82d16b16.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.befc9dbc.js",
     "static/js/2.82d16b16.chunk.js",
-    "static/css/main.88dff0d0.chunk.css",
-    "static/js/main.b32969be.chunk.js"
+    "static/css/main.d707dd79.chunk.css",
+    "static/js/main.64afacd2.chunk.js"
   ]
 }

@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "90d7c8e723145ef34353b8d204dcbd56",
+    "revision": "e2fa842f0b5e355aad220c7f7df865e1",
     "url": "/mylawlegal/index.html"
   },
   {
-    "revision": "e468c24be95e0cdf910f",
-    "url": "/mylawlegal/static/css/main.88dff0d0.chunk.css"
+    "revision": "3bda723c87c2993e1bac",
+    "url": "/mylawlegal/static/css/main.d707dd79.chunk.css"
   },
   {
     "revision": "e727b68466a851eb5847",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mylawlegal/static/js/2.82d16b16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e468c24be95e0cdf910f",
-    "url": "/mylawlegal/static/js/main.b32969be.chunk.js"
+    "revision": "3bda723c87c2993e1bac",
+    "url": "/mylawlegal/static/js/main.64afacd2.chunk.js"
   },
   {
     "revision": "9ef193035e086d1c17cc",
